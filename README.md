@@ -41,3 +41,6 @@ The purpose of this project is to demonstrate your ability to collect, work with
 	* Exports the tidy dataset set (file tidyData.txt in this case)
 
 #### CodeBook.md describes variables claculated during the analysis
+
+##### Acknowledgement
+The way to approach the analysis within the Course project was based on ideas and suggestions provided by Heather Glenn Wade (see https://github.com/hglennrock for reference).
